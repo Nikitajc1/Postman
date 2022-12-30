@@ -1,0 +1,19 @@
+{
+  "args": {},
+  "data": "some data",
+  "files": {},
+  "form": {},
+  "headers": {
+    "x-forwarded-proto": "https",
+    "x-forwarded-port": "443",
+    "host": "postman-echo.com",
+    "x-amzn-trace-id": "Root=1-63aec183-26cc09a36f5b0e22310f080a",
+    "content-length": "9",
+    "accept": "*/*",
+    "content-type": "text/plain; charset=ISO-8859-1",
+    "user-agent": "Apache-HttpClient/4.5.3 (Java/11.0.17)",
+    "accept-encoding": "gzip,deflate"
+  },
+  "json": null,
+  "url": "https://postman-echo.com/post"
+}
