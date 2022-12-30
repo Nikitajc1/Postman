@@ -19,7 +19,7 @@ public class postmanTest {
                 .then()
                 .statusCode(200)
                 .body(matchesJsonSchemaInClasspath("schema.json"))
-                .body("data", equalTo("some data"))
+                .body("data", equalTo("s daa"))
         ;
     }
 }
